@@ -1,6 +1,7 @@
+//import '../App.css';
 function Pagina1(){
     return(
-        <div>Hola</div>
+        <div className='bg-red-500'>Hola</div>
     );
 }
 export default Pagina1;
