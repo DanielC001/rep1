@@ -8,5 +8,5 @@ styles:
 2. en el app colocar: import 'bootstrap/dist/css/bootstrap.css';
 
 -tailwindcss
-1. yarn add 
+https://tailwindcss.com/docs/guides/create-react-app
 
