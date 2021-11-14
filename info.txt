@@ -1,7 +1,6 @@
 instalar react router dom con:
 yarn add react-router-dom
 
-------------------
-styles:
+
 
 
