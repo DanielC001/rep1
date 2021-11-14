@@ -3,5 +3,10 @@ yarn add react-router-dom
 
 ------------------
 styles:
+-bootstrap
+1. yarn add bootstrap
+2. en el app colocar: import 'bootstrap/dist/css/bootstrap.css';
 
+-tailwindcss
+1. yarn add 
 
