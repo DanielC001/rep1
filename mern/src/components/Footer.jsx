@@ -1,7 +1,7 @@
 function Footer(){
     return(
-        <div className="footer">
-            <header>Este es el Footer</header>
+        <div className="bg-red-400">
+            Footer
         </div>
     );
 }
